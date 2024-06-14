@@ -29,7 +29,7 @@ import org.apache.flink.shaded.netty4.io.netty.handler.codec.http.HttpResponseSt
 public final class JarUploadHeaders
         implements MessageHeaders<EmptyRequestBody, JarUploadResponseBody, EmptyMessageParameters> {
 
-    public static final String URL = "/jars/upload2233";
+    public static final String URL = "/jars/upload23";
     private static final JarUploadHeaders INSTANCE = new JarUploadHeaders();
 
     private JarUploadHeaders() {}

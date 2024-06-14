@@ -233,6 +233,7 @@ under the License.
 					</outputDirectory>
 <!--					<protocArtifact>com.google.protobuf:protoc:3.5.1:exe:${os.detected.classifier}-->
 <!--					</protocArtifact>-->
+
 					<protocArtifact>com.google.protobuf:protoc:3.5.1:exe:osx-x86_64</protocArtifact>
 
 				</configuration>
